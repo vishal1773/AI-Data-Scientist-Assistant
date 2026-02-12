@@ -91,6 +91,11 @@ Includes:
 - SciPy
 - Joblib
 
+- ## How to run
+- $ streamlit run app.py
+- 
+
 ---
+
 
 
